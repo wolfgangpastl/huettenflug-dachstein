@@ -4,7 +4,7 @@
 
 Die Seite zeigt ein mögliches neues Angebot im Motivfeld „Bewegende Natur“. Sie entstand im Rahmen der Bewerbung als Teamlead Produkt- & Experience Management (m/w/d) im Oktober 2026.
 
-Live: https://zaizaiteki.github.io/huettenflug-dachstein/
+Live: https://wolfgangpastl.github.io/huettenflug-dachstein/
 
 Statische Seite (HTML, CSS, etwas JavaScript), ohne Build-Schritt. Gestaltung angelehnt an die öffentlich zugänglichen Brand Guidelines 2026 von Oberösterreich Tourismus. Das offizielle Logo wird nicht verwendet.
 
