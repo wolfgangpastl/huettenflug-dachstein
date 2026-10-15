@@ -1,8 +1,8 @@
 # Hüttenflug Dachstein – Konzept
 
-**Konzept- und Bewerbungsprojekt von Wolfgang Pastl.** Diese Seite ist kein offizielles Angebot und keine Veröffentlichung der Oberösterreich Tourismus GmbH. „Hüttenflug Dachstein“ existiert nicht als buchbares Produkt. Preise, Termine, Partner und Kennzahlen sind Beispiele. Das Buchungsformular hat keine Funktion und überträgt keine Daten.
+**Konzeptprojekt von Wolfgang Pastl.** Diese Seite ist kein offizielles Angebot und keine Veröffentlichung der Oberösterreich Tourismus GmbH. „Hüttenflug Dachstein“ existiert nicht als buchbares Produkt. Preise, Termine, Partner und Kennzahlen sind Beispiele. Das Buchungsformular hat keine Funktion und überträgt keine Daten.
 
-Die Seite zeigt ein mögliches neues Angebot im Motivfeld „Bewegende Natur“. Sie entstand im Rahmen der Bewerbung als Teamlead Produkt- & Experience Management (m/w/d) im Oktober 2026.
+Die Seite zeigt ein mögliches neues Angebot im Motivfeld „Bewegende Natur“. 
 
 Live: https://wolfgangpastl.github.io/huettenflug-dachstein/
 
